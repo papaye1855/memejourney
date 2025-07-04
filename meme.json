@@ -2,13 +2,13 @@
   "name": "MemeCoin",
   "symbol": "MEME",
   "description": "Le memecoin le plus fun sur Solana Devnet",
-  "image": "https://github.com/papaye1855/memejourney/blob/ecb607fca222264c76d421ee88550cd7d0bc073c/satoru.jpg",
+  "image": "https://raw.githubusercontent.com/papaye1855/memejourney/main/satoru.jpg",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/papaye1855/memejourney/blob/ecb607fca222264c76d421ee88550cd7d0bc073c/satoru.jpg",
-        "type": "image/jgp"
+        "uri": "https://raw.githubusercontent.com/papaye1855/memejourney/main/satoru.jpg",
+        "type": "image/jpg"
       }
     ],
     "category": "image"
